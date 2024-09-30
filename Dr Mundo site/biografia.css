@@ -1,0 +1,31 @@
+#biografia {
+    padding: 40px;
+    background-color: #2e2e2e;
+    text-align: justify;
+    line-height: 1.8;
+    font-size: larger;
+}
+
+#biografia h2 {
+    color: #ff4b4b;
+    text-align: center;
+}
+
+#biografia p {
+    margin: 20px 0;
+    color: #fff;
+    font-size: larger;
+}
+
+#biografia img {
+    width: 250px;
+    margin: 20px auto;
+    display: block;
+}
+
+#biografia img[style="width: 100%;"] {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    display: block;
+}
